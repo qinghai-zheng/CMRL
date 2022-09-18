@@ -7,7 +7,7 @@ The demo files (including corresponding datasets )of BBC-Sport and NGs are inclu
 
 If you find this repository useful in your research, please cite our work as follows, thanks.
 
-@article\{CBF-MSC,<br/>
+@article\{CMRL,<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;title=\{Comprehensive multi-view representation learning\},<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;author=\{Zheng, Qinghai and Zhu, Jihua and Li, Zhongyu and Tian, Zhiqiang and Li, Chen\},<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;journal=\{Information Fusion\},<br/>
