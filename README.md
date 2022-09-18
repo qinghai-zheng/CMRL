@@ -1,7 +1,7 @@
 # CMRL
 Source codes of the work "Comprehensive multi-view representation learning" published in Information Fusion 2022.
 
-<img src="./Flowchar_CMRL.png" width="30%">
+<img src="./Flowchar_CMRL.png" width="60%">
 
 The demo files (including corresponding datasets )of BBC-Sport and NGs are included in this repository.
 
