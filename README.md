@@ -3,7 +3,7 @@ Source codes of the work "Comprehensive multi-view representation learning" publ
 
 <img src="./Flowchar_CMRL.png" width="60%">
 
-The demo files (including corresponding datasets )of BBC-Sport and NGs are included in this repository.
+The demo files (including corresponding datasets) of BBC-Sport and NGs are included in this repository.
 
 If you find this repository useful in your research, please cite our work as follows, thanks.
 
